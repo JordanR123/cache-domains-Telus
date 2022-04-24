@@ -9,3 +9,4 @@ download3.epicgames.com
 download4.epicgames.com
 epicgames-download1.akamaized.net
 fastly-download.epicgames.com
+server-65-8-71-56.yvr50.r.cloudfront.net
