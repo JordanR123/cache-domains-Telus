@@ -55,3 +55,4 @@ ac6van1.cdn.telus.com
 sea09s29-in-f16.1e100.net
 ac21.te2van3d1.cdn
 ac23.te2van3d1.cdn
+ac6van3.cdn.telus.com
