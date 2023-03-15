@@ -58,3 +58,4 @@ ac23.te2van3d1.cdn
 ac6van3.cdn.telus.com
 *.cdn.telus.com
 *.te2van3d1.cdn
+*.te2van2d1.cdn
